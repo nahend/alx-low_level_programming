@@ -4,7 +4,7 @@
  * main - print all posible conditions of two different digits,
  *        in asceding order, separated by comma followed by space.
  *
- * Return: 0
+ * Return: Always 0
  */
 int main(void)
 {
