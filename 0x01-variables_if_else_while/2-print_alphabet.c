@@ -1,5 +1,5 @@
 #include <stdlib.h>
- /**
+/**
  * main - entry point
  *
  * Description: Print the lowercase alphabet
