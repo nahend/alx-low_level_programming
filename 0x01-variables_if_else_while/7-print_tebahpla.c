@@ -3,7 +3,7 @@
 /**
  * main - entry point
  *
- * Description: Print lower case alphabets backward 
+ * Description: Print lower case alphabets backward
  * Return: 0
  */
 int main(void)
