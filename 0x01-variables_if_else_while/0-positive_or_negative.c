@@ -16,12 +16,12 @@ srand(time(0));
 n = rand  () - RAND_MAX /2;
 
 if (n > 1)
-printif("% is positive\n", n);
+printf("% is positive\n", n);
 else if (n < 0)
-printif("% is negative\n", n);
+printf("% is negative\n", n);
 else
 
-printif("% is zero\n", n);
+printf("% is zero\n", n);
 else if (n < 0)
 
 return (0);
