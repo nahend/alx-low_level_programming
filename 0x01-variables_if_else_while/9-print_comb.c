@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - main block
- * Description: Print all sing digit numbers of base 10 
+ * Description: Print all single digit numbers of base 10 
  * starting from 0, followed by new line.
  * Return: 0
  */
