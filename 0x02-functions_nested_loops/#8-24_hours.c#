@@ -1,0 +1,42 @@
+#include
+main.h"
+Jack bauer
+Prints every minute of the day of
+Jack Bauer, starting from 00:00 to 23:59
+void jack hai
+(void)
+K
+lint hour, minute;
+For (hour = 0; hour <= 23; hour++)
+K
+(minute = 0; minute
+<= 59; minute++)
+K
+a putchar ((hour / 10) +
+_putchar ((hour % 10)
+putchar(:);
+_putchar ((minute / 10) +
+€ putchar ((minute % 10) +
+putchar(In);
+"0"):
+"O'
+"0):rints every minute of the day of
+Jack Bauer, starting from 00:00 to 23:59
+void jack hai
+(void)
+K
+lint hour, minute;
+For (hour = 0; hour <= 23; hour++)
+K
+(minute = 0; minute
+<= 59; minute++)
+K
+a putchar ((hour / 10) +
+_putchar ((hour % 10)
+putchar(:);
+_putchar ((minute / 10) +
+€ putchar ((minute % 10) +
+putchar(In);
+"0"):
+"O'
+"0):~
