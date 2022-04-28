@@ -46,3 +46,4 @@ else if (s[start] != s[end])
 	return (0);
 else
 	return (check(s, start + 1, end - 1, pair));
+}
